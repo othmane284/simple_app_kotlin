@@ -63,6 +63,9 @@ fun displayIngredients() {
         9. No more ingredients
     """.trimIndent())
 }
+println(" card or cash")
+var result = readline()
+if (recepie)
 
 fun getInput(): Int {
     print("Enter your choice: ")
